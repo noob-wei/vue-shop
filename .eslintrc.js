@@ -16,8 +16,7 @@ module.exports = {
 
   rules: {
     'no-console': 'off',
-    'no-debugger': 'off',
-    'space-before-function-paren': 0
+    'no-debugger': 'off'
   },
 
   extends: [
